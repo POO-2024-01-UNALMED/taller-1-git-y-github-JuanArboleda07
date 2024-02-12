@@ -1,3 +1,7 @@
+La carpeta no esta vacia y por tanto cuenta como cambio para Github y permite hacer un comit
+
 Juan Sebastian Arboleda Jaramillo
 21
 adquirir los conocimientos suficientes para construir mis propios proyectos y programas :D
+
+porque genera conflictos
